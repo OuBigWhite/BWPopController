@@ -114,7 +114,7 @@ class BWPopController {
     /// 弹出一个View
     /// - Parameters:
     ///   - view: 需要弹出的view
-    ///   - frame: view的位置（相对于window）
+    ///   - origin: view的位置（相对于window）
     ///   - animateType: 弹出动画类型
     ///   - duration: 动画持续时间
     ///   - isClickHidden: 是否允许点击隐藏
