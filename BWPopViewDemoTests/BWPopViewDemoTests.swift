@@ -1,15 +1,15 @@
 //
-//  BWPromptViewDemoTests.swift
-//  BWPromptViewDemoTests
+//  BWPopViewDemoTests.swift
+//  BWPopViewDemoTests
 //
-//  Created by 冉彬 on 2020/7/13.
+//  Created by 冉彬 on 2020/4/30.
 //  Copyright © 2020 BigWhite. All rights reserved.
 //
 
 import XCTest
-@testable import BWPromptViewDemo
+@testable import BWPopViewDemo
 
-class BWPromptViewDemoTests: XCTestCase {
+class BWPopViewDemoTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
