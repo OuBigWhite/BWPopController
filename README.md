@@ -37,7 +37,7 @@
         BWPopController.showView(view: view, type: .right, isClick: true)
     }
     
-    // 弹出到指定位置
+    // 指定动画弹到指定位置
     @objc func clickAction(sender: UIButton) -> Void {
         let view = UIView(frame: CGRect(x: 0, y: 0, width: 280, height: 300))
         view.backgroundColor = .white
